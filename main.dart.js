@@ -70798,7 +70798,7 @@ t.A.a(q.b)
 q=t.p
 return A.rS(B.i,A.eP(B.aD,A.a([A.bO(A.a([B.nM,this.VB(0,r,b)],q),B.t,B.v,B.p),A.ot(20,this.Dw(b),s,s,0,0,s,s)],q),B.aO),s,s)},
 VB(a,b,c){var s,r,q,p=null,o=J.X(J.X(J.X($.au0().h(0,"Telegram"),"WebApp"),"initDataUnsafe"),"user"),n=J.ai(o),m=A.dL(n.h(o,"id"))
-n="\u041f\u0440\u0438\u0432\u0435\u0442, "+A.bw(n.h(o,"first_name"))+"("+B.e.i(m)+")"
+n="\u041f\u0440\u0438\u0432\u0435\u0442, "+A.bw(n.h(o,"first_name"))+"("+B.e.i(m)+")!"
 s=t.A
 r=A.D(c)
 r=r.b.h(0,r.c[r.a])
