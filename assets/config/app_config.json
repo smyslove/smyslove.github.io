@@ -1,0 +1,6 @@
+{
+    "apiUrl": "https://api.yclients.com/api/v1",
+    "apiAssetUrl": "https://assets.yclients.com/",
+ 
+    "apiSalonUrl": "https://itsdigital.ru/api/v1/companies"
+}
